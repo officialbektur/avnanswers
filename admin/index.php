@@ -1,1 +1,11 @@
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, nemo placeat! Est eos numquam libero, et ducimus, blanditiis quia illum, architecto repellendus odit illo ipsum quas assumenda ex hic dicta?
+<!--------------------  Admin Avn Answers  -------------------->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Refresh" content="0; URL=https://https://avnanswers.000webhostapp.com/admin/">
+</head>
+<body>
+</body>
+</html>
